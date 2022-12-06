@@ -15,7 +15,7 @@ const ContactUs = () => {
             name,
             email,
             phone,
-            timeSubmitted: new Date();
+            timeSubmitted: new Date()
         };
 
         console.log(payload)
